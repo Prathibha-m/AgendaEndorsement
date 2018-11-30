@@ -1,0 +1,805 @@
+{
+  "results":[{
+    "inputRow":{
+      "user_id":"jSD05fFrAFa5gX3ZQae1tw",
+      "tasks":["Restaurant","Shopping","Health & Wellness"],
+      "lat":36.22552872,
+      "long":-115.2799835
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"6fPQJq4f_yiq1NHn0fd11Q",
+          "_2":"La Creperie",
+          "_3":2.9897808817780613
+        },{
+          "_1":"GAEaGU-wR_51-0FbTdRNlA",
+          "_2":"A Note Above the Rest",
+          "_3":2.1727249024235347
+        },{
+          "_1":"6eQSVC2EoxLr57D01xu0XA",
+          "_2":"Shannon Chandler, O.D. and Lesa Davis, O.D",
+          "_3":0.7073725859749391
+        }],
+        "averageRating":1.9566261233921782,
+        "roundTripDistance":1588.8848643195802
+      },
+      "score":-0.8553418025530881
+    },
+    "shortestDistPlan":{
+      "ID":50,
+      "plan":[{
+        "_1":"swRC2ipDh0nRJZIjyXrU0w",
+        "_2":"Jake's Filling Station",
+        "_3":4.884898668851506
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      }],
+      "averageRating":4.961632889617168,
+      "roundTripDistance":115.7712504626853
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"x9XCZXcRwUtTWAGd6MRDmw",
+        "_2":"Fish Delish",
+        "_3":5.0
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":401.482340289205
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":50,
+        "plan":[{
+          "_1":"swRC2ipDh0nRJZIjyXrU0w",
+          "_2":"Jake's Filling Station",
+          "_3":4.884898668851506
+        },{
+          "_1":"9YRLOzvRknwn7sJu22dzrg",
+          "_2":"Advanced Care Rx Pharmacy",
+          "_3":5.0
+        },{
+          "_1":"9YRLOzvRknwn7sJu22dzrg",
+          "_2":"Advanced Care Rx Pharmacy",
+          "_3":5.0
+        }],
+        "averageRating":4.961632889617168,
+        "roundTripDistance":115.7712504626853
+      },
+      "score":9.17183436722582
+    }
+  },{
+    "inputRow":{
+      "user_id":"oagZh5A2cWJXZBLakS_KpQ",
+      "tasks":["Home Finishings","Health & Wellness","Shopping"],
+      "lat":36.018286,
+      "long":-115.1179043
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"W64wH5LlW8-T_eZd6HGYgA",
+          "_2":"King of Condos",
+          "_3":1.004775987183953
+        },{
+          "_1":"xqPuzlxT9gnxWrrZARLL6w",
+          "_2":"Thomas Parisi, MD",
+          "_3":3.025790096929681
+        },{
+          "_1":"RFhK3kfqwplycpiBF1V--A",
+          "_2":"RoboGolfPro Las Vegas",
+          "_3":1.311096294767186
+        }],
+        "averageRating":1.7805541262936064,
+        "roundTripDistance":904.3890198593456
+      },
+      "score":4.965488878277735
+    },
+    "shortestDistPlan":{
+      "ID":67,
+      "plan":[{
+        "_1":"9JtYNkSvwwxL00YB54_NlA",
+        "_2":"Alexander's Handyman Services",
+        "_3":4.927461526428037
+      },{
+        "_1":"_-t_UaCSLsGY5L-7Wf3UnA",
+        "_2":"SimonMed Imaging - Las Vegas",
+        "_3":4.819789291235012
+      },{
+        "_1":"IoAKJHZCmpx7EL9U81ds8g",
+        "_2":"Weavetastic Salon and Extension Co.",
+        "_3":4.80910007630827
+      }],
+      "averageRating":4.852116964657107,
+      "roundTripDistance":395.6517057068953
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"PNJFo-uMH5QQJLxeJZpGeA",
+        "_2":"Environmental Pest Control",
+        "_3":5.0
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      },{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":988.347796927245
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":25,
+        "plan":[{
+          "_1":"qkUZg9V8UU-8uHbuuITp6g",
+          "_2":"Best Storage",
+          "_3":4.944684142220405
+        },{
+          "_1":"9YRLOzvRknwn7sJu22dzrg",
+          "_2":"Advanced Care Rx Pharmacy",
+          "_3":5.0
+        },{
+          "_1":"9YRLOzvRknwn7sJu22dzrg",
+          "_2":"Advanced Care Rx Pharmacy",
+          "_3":5.0
+        }],
+        "averageRating":4.981561380740135,
+        "roundTripDistance":801.9129798616698
+      },
+      "score":8.049602005015295
+    }
+  },{
+    "inputRow":{
+      "user_id":"6BSwuyc7fvcccJgrY4_W5Q",
+      "tasks":["Health & Wellness","Restaurant"],
+      "lat":36.0357492,
+      "long":-115.1533426
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"qh5dTNXritViyuqd_Ao6jg",
+          "_2":"Hillcrest Dental",
+          "_3":3.6463503371490167
+        },{
+          "_1":"r1l1g_xKVWdf8fCvlofw4w",
+          "_2":"Rebel Oil",
+          "_3":2.2177143534028247
+        }],
+        "averageRating":2.9320323452759207,
+        "roundTripDistance":1033.1078413946168
+      },
+      "score":2.950612671777789
+    },
+    "shortestDistPlan":{
+      "ID":16,
+      "plan":[{
+        "_1":"_-t_UaCSLsGY5L-7Wf3UnA",
+        "_2":"SimonMed Imaging - Las Vegas",
+        "_3":4.819789291235012
+      },{
+        "_1":"WKMdjxgfyiZ4V-nTMvKXYw",
+        "_2":"Southwest Trophies & Apparel",
+        "_3":4.940836252979807
+      }],
+      "averageRating":4.880312772107409,
+      "roundTripDistance":411.8566610400437
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"9YRLOzvRknwn7sJu22dzrg",
+        "_2":"Advanced Care Rx Pharmacy",
+        "_3":5.0
+      },{
+        "_1":"x9XCZXcRwUtTWAGd6MRDmw",
+        "_2":"Fish Delish",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":909.7932414328075
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":6,
+        "plan":[{
+          "_1":"umxbP_AW6x3uiIk6y-jSOg",
+          "_2":"Namaste Skincare & Wellness",
+          "_3":4.861649574902957
+        },{
+          "_1":"WKMdjxgfyiZ4V-nTMvKXYw",
+          "_2":"Southwest Trophies & Apparel",
+          "_3":4.940836252979807
+        }],
+        "averageRating":4.901242913941382,
+        "roundTripDistance":412.3810770114657
+      },
+      "score":7.860779494599892
+    }
+  },{
+    "inputRow":{
+      "user_id":"9rbW5UzIi9xe377XM47blg",
+      "tasks":["Home Finishings","Shopping-Sports","Restaurant-Pub"],
+      "lat":36.052802,
+      "long":-115.171496
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"H63ERmabF5A0NpVkGNjBxg",
+          "_2":"Topaz",
+          "_3":2.3122751911585335
+        },{
+          "_1":"eH1D5mZYMC0iFg6j84GJdA",
+          "_2":"Team Sports Direct",
+          "_3":3.609730495629295
+        },{
+          "_1":"BYQ6Wfh4hhKKLI71qhDWIw",
+          "_2":"Queen Victoria Pub",
+          "_3":1.543623556000503
+        }],
+        "averageRating":2.488543080929444,
+        "roundTripDistance":1151.0025221059925
+      },
+      "score":5.357235444090652
+    },
+    "shortestDistPlan":{
+      "ID":85,
+      "plan":[{
+        "_1":"ab3-BhBFlkfvlUwg8w0-1g",
+        "_2":"SmartFilm Window Tinting",
+        "_3":4.808786763055799
+      },{
+        "_1":"Iuus7LTt_r7SjjLA41id-g",
+        "_2":"Tradeville",
+        "_3":4.853498679833419
+      },{
+        "_1":"N0CoaG3cBrTGm2ecLYSzqA",
+        "_2":"Lotus of Siam",
+        "_3":5.0
+      }],
+      "averageRating":4.887428480963073,
+      "roundTripDistance":259.37908848862713
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"_bmrT-DRPkmI_QqVIiXrOw",
+        "_2":"Universal Carpet Care",
+        "_3":5.0
+      },{
+        "_1":"s4YBnREjKGDYlTlnTUGyOg",
+        "_2":"House of Hoops",
+        "_3":5.000000000000001
+      },{
+        "_1":"N0CoaG3cBrTGm2ecLYSzqA",
+        "_2":"Lotus of Siam",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":379.34900413632306
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":0,
+        "plan":[{
+          "_1":"_bmrT-DRPkmI_QqVIiXrOw",
+          "_2":"Universal Carpet Care",
+          "_3":5.0
+        },{
+          "_1":"s4YBnREjKGDYlTlnTUGyOg",
+          "_2":"House of Hoops",
+          "_3":5.000000000000001
+        },{
+          "_1":"N0CoaG3cBrTGm2ecLYSzqA",
+          "_2":"Lotus of Siam",
+          "_3":5.0
+        }],
+        "averageRating":5.0,
+        "roundTripDistance":379.34900413632306
+      },
+      "score":9.7132278181906
+    }
+  },{
+    "inputRow":{
+      "user_id":"T26CcJEltsFYSve-awMHig",
+      "tasks":["Shopping-Women's","Health & Wellness"],
+      "lat":36.1441871,
+      "long":-115.2726746
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"F-yJbuAYoqJGuOjDXlTEWg",
+          "_2":"UGG",
+          "_3":4.214376770786373
+        },{
+          "_1":"eGVi-c3iJzV3EHwzDHclnQ",
+          "_2":"Family Tree Medical Center",
+          "_3":2.5825481061374806
+        }],
+        "averageRating":3.3984624384619266,
+        "roundTripDistance":172.5966242316041
+      },
+      "score":7.110337604290805
+    },
+    "shortestDistPlan":{
+      "ID":23,
+      "plan":[{
+        "_1":"83emRNv33UhLgUjEOM4PYw",
+        "_2":"Betsey Johnson",
+        "_3":4.654507073953393
+      },{
+        "_1":"ecg-vJ8vP8dbqURkZwd_EA",
+        "_2":"Zu Yu Xuan Foot Spa",
+        "_3":4.949637981647504
+      }],
+      "averageRating":4.802072527800449,
+      "roundTripDistance":74.59109285466545
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"1UvoGUZ479SBat3GRC-i9g",
+        "_2":"Pea In the Pod",
+        "_3":5.0
+      },{
+        "_1":"-38Kck4mGlkBwd6OXayZRg",
+        "_2":"Now and Zen Massage Therapy",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":126.81934415602967
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":3,
+        "plan":[{
+          "_1":"1UvoGUZ479SBat3GRC-i9g",
+          "_2":"Pea In the Pod",
+          "_3":5.0
+        },{
+          "_1":"ecg-vJ8vP8dbqURkZwd_EA",
+          "_2":"Zu Yu Xuan Foot Spa",
+          "_3":4.949637981647504
+        }],
+        "averageRating":4.974818990823752,
+        "roundTripDistance":74.59350253242283
+      },
+      "score":9.368881541083052
+    }
+  },{
+    "inputRow":{
+      "user_id":"inEX2NEawFox3zAYNooL1w",
+      "tasks":["Shopping","Home Finishings","Restaurant-Burgers"],
+      "lat":36.2617683,
+      "long":-115.19221
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"GPaR-8E6nLMe4QYQwB7lkw",
+          "_2":"LVTS - Used & OEM Automotive Parts",
+          "_3":1.053338416251252
+        },{
+          "_1":"aGed_AuNuwf1l9bBrl43oQ",
+          "_2":"Oasis Emerald - Avenue5 Residential",
+          "_3":2.1716143482927373
+        },{
+          "_1":"k5pA0N9K2zy5OQZSqeC0jQ",
+          "_2":"Burgerim",
+          "_3":2.9951395355751385
+        }],
+        "averageRating":2.073364100039709,
+        "roundTripDistance":982.4820137032428
+      },
+      "score":4.237879680141578
+    },
+    "shortestDistPlan":{
+      "ID":30,
+      "plan":[{
+        "_1":"Dku8mlzfzljUE1V067RgMA",
+        "_2":"BYOP of Nevada",
+        "_3":4.999358918875707
+      },{
+        "_1":"Dku8mlzfzljUE1V067RgMA",
+        "_2":"BYOP of Nevada",
+        "_3":4.940190816458164
+      },{
+        "_1":"nD_7R5bVxRYNHKv_dGlhBA",
+        "_2":"Timbers Rancho",
+        "_3":5.0
+      }],
+      "averageRating":4.979849911777957,
+      "roundTripDistance":227.29126670917321
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"DOaz7aEWX6w_T6NUu_IBEw",
+        "_2":"Divine Threading West Sahara",
+        "_3":5.0
+      },{
+        "_1":"HlzG5WpHsIGdaPYqJCwl7w",
+        "_2":"Ace Electric",
+        "_3":5.0
+      },{
+        "_1":"nD_7R5bVxRYNHKv_dGlhBA",
+        "_2":"Timbers Rancho",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":1071.6117482749476
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":30,
+        "plan":[{
+          "_1":"Dku8mlzfzljUE1V067RgMA",
+          "_2":"BYOP of Nevada",
+          "_3":4.999358918875707
+        },{
+          "_1":"Dku8mlzfzljUE1V067RgMA",
+          "_2":"BYOP of Nevada",
+          "_3":4.940190816458164
+        },{
+          "_1":"nD_7R5bVxRYNHKv_dGlhBA",
+          "_2":"Timbers Rancho",
+          "_3":5.0
+        }],
+        "averageRating":4.979849911777957,
+        "roundTripDistance":227.29126670917321
+      },
+      "score":9.552542290171393
+    }
+  },{
+    "inputRow":{
+      "user_id":"kP6vvRcQEnKef4hY8Kz44Q",
+      "tasks":["Health & Wellness","Shopping-Sports"],
+      "lat":36.013024,
+      "long":-115.126224
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"VRTfAP2DjvUYxRY3dw37hA",
+          "_2":"Spa and Salon at Bellagio",
+          "_3":2.4040804029848677
+        },{
+          "_1":"2o4PbDEHs4dc-YAjFCRHmQ",
+          "_2":"Tee & Cap Plus",
+          "_3":2.8023795434959897
+        }],
+        "averageRating":2.6032299732404285,
+        "roundTripDistance":897.2637030751561
+      },
+      "score":4.64868358910204
+    },
+    "shortestDistPlan":{
+      "ID":12,
+      "plan":[{
+        "_1":"uaHJQ7kHmLRXh-q626flrA",
+        "_2":"Las Vegas Radiology",
+        "_3":4.738582883564709
+      },{
+        "_1":"zvog_S-rybm3HXTq5KkEkA",
+        "_2":"Black Widow Boutique",
+        "_3":4.4845531884867595
+      }],
+      "averageRating":4.611568036025734,
+      "roundTripDistance":176.05098649625194
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"m5JdqXrH-uUhYV4q7otytQ",
+        "_2":"Michael R Wanlass, DDS",
+        "_3":5.0
+      },{
+        "_1":"JO8fpEpWlqFmjAwWZW5Gvw",
+        "_2":"Lululemon Athletica",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":570.002988151961
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":0,
+        "plan":[{
+          "_1":"m5JdqXrH-uUhYV4q7otytQ",
+          "_2":"Michael R Wanlass, DDS",
+          "_3":5.0
+        },{
+          "_1":"JO8fpEpWlqFmjAwWZW5Gvw",
+          "_2":"Lululemon Athletica",
+          "_3":5.0
+        }],
+        "averageRating":5.0,
+        "roundTripDistance":570.002988151961
+      },
+      "score":8.386121826113678
+    }
+  },{
+    "inputRow":{
+      "user_id":"vfcWWF2jTLR9Ft0yUbpGow",
+      "tasks":["Restaurant-Coffe","Restaurants-Hotels","Restaurant-Desserts","Restaurants-Pubs"],
+      "lat":36.2534463,
+      "long":-115.1539988
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"81WMGpA8CVYlPhuhZatkXw",
+          "_2":"Aria Patisserie",
+          "_3":2.293405368740129
+        },{
+          "_1":"e0HvYAL3vCH145vb0B_H5w",
+          "_2":"Bowl of Heaven 2 Go",
+          "_3":2.2457767311092502
+        },{
+          "_1":"EL8FAWOL4Pr-s5VCybvtvg",
+          "_2":"Rosanas Custom Cakes",
+          "_3":2.199997822563332
+        },{
+          "_1":"COevwLqo4kTOXZGqXvs5yQ",
+          "_2":"Mojito Hut",
+          "_3":4.576100451665866
+        }],
+        "averageRating":2.828820093519644,
+        "roundTripDistance":811.0393729542345
+      },
+      "score":7.668536681479931
+    },
+    "shortestDistPlan":{
+      "ID":19,
+      "plan":[{
+        "_1":"HnsGCps7TY3vnC7u4xVEew",
+        "_2":"Bubble Mixology",
+        "_3":5.0
+      },{
+        "_1":"e--8ev5DbM_5cbveVTWAEg",
+        "_2":"Max Cooking Mediterranean Experience",
+        "_3":5.000000000000001
+      },{
+        "_1":"uaWFF4_X76pchY3bEDLzJA",
+        "_2":"Luchkoff Patisserie",
+        "_3":4.660024746150105
+      },{
+        "_1":"v7ZFEEqJBg_r8NCwHRP_2A",
+        "_2":"Bistro Divino",
+        "_3":4.549738912626488
+      }],
+      "averageRating":4.802440914694149,
+      "roundTripDistance":758.7234178665097
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"HnsGCps7TY3vnC7u4xVEew",
+        "_2":"Bubble Mixology",
+        "_3":5.0
+      },{
+        "_1":"e--8ev5DbM_5cbveVTWAEg",
+        "_2":"Max Cooking Mediterranean Experience",
+        "_3":5.000000000000001
+      },{
+        "_1":"WgzBuY08f7o9MPR6yAShyw",
+        "_2":"Cupkates",
+        "_3":5.0
+      },{
+        "_1":"TAbycGt_Ag4eNHti4T6c0w",
+        "_2":"Jones Liquors",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":1222.4184350028981
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":9,
+        "plan":[{
+          "_1":"HnsGCps7TY3vnC7u4xVEew",
+          "_2":"Bubble Mixology",
+          "_3":5.0
+        },{
+          "_1":"e--8ev5DbM_5cbveVTWAEg",
+          "_2":"Max Cooking Mediterranean Experience",
+          "_3":5.000000000000001
+        },{
+          "_1":"BcE2MALl_lBqeTKgJbP8xQ",
+          "_2":"Mary's Cakes",
+          "_3":4.956743255931659
+        },{
+          "_1":"v7ZFEEqJBg_r8NCwHRP_2A",
+          "_2":"Bistro Divino",
+          "_3":4.549738912626488
+        }],
+        "averageRating":4.876620542139537,
+        "roundTripDistance":764.933585919211
+      },
+      "score":8.847435922355087
+    }
+  },{
+    "inputRow":{
+      "user_id":"HXWvlxAe4LaPUREXOP5pgw",
+      "tasks":["Home Finishings","Restaurants-French","Restaurant-Bakery"],
+      "lat":36.0844482,
+      "long":-115.2421295
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"CX6qNbOHQ6wJ7ciy6qjR7w",
+          "_2":"Absolute Best Concrete",
+          "_3":2.8140827896571783
+        },{
+          "_1":"HgdFqAvK31fB9sgBdOzo9g",
+          "_2":"Crêpe Expectations",
+          "_3":3.2348980207671496
+        },{
+          "_1":"CxzUdREgfS4ymtXFSREf8Q",
+          "_2":"T.K. House of Bread & Market",
+          "_3":1.9095667419966293
+        }],
+        "averageRating":2.6528491841403192,
+        "roundTripDistance":1018.8112338936999
+      },
+      "score":5.661426361268111
+    },
+    "shortestDistPlan":{
+      "ID":77,
+      "plan":[{
+        "_1":"s3Zs0mJLqxBbmpFm7OsMZQ",
+        "_2":"Jonathan Abbinante - Rockin the House",
+        "_3":4.78434566860838
+      },{
+        "_1":"2B46bRpDh49eDyjXGhL_ZQ",
+        "_2":"La Maison de Maggie",
+        "_3":5.0
+      },{
+        "_1":"g-ZseseezHTpF5eMfLrLgQ",
+        "_2":"LaPostté",
+        "_3":4.862775322188696
+      }],
+      "averageRating":4.882373663599026,
+      "roundTripDistance":265.8879067977598
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"ks9S57hAJz45XLGMgdq9lg",
+        "_2":"Henrie Tree Service",
+        "_3":5.0
+      },{
+        "_1":"2B46bRpDh49eDyjXGhL_ZQ",
+        "_2":"La Maison de Maggie",
+        "_3":5.0
+      },{
+        "_1":"uaWFF4_X76pchY3bEDLzJA",
+        "_2":"Luchkoff Patisserie",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":1090.1946258185253
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":50,
+        "plan":[{
+          "_1":"ziynxRVMuLoIMtMpcMFfaQ",
+          "_2":"New Crete",
+          "_3":4.831340223922525
+        },{
+          "_1":"2B46bRpDh49eDyjXGhL_ZQ",
+          "_2":"La Maison de Maggie",
+          "_3":5.0
+        },{
+          "_1":"uaWFF4_X76pchY3bEDLzJA",
+          "_2":"Luchkoff Patisserie",
+          "_3":5.0
+        }],
+        "averageRating":4.943780074640841,
+        "roundTripDistance":372.50728722641793
+      },
+      "score":9.356673124474849
+    }
+  },{
+    "inputRow":{
+      "user_id":"eflyw4b6JLXcdt8i3EV6sw",
+      "tasks":["Home Finishings","Health & Wellness"],
+      "lat":36.23934091,
+      "long":-115.2070557
+    },
+    "randomPlan":{
+      "plan":{
+        "ID":-1,
+        "plan":[{
+          "_1":"jZ-z4dZJN2urRteCdmz5Og",
+          "_2":"Artistic Iron Works",
+          "_3":1.282908437856691
+        },{
+          "_1":"hsBuzCanNzM2DsOAhYYAhg",
+          "_2":"ESPA at VDARA",
+          "_3":1.8969161428019372
+        }],
+        "averageRating":1.5899122903293141,
+        "roundTripDistance":515.5336834898102
+      },
+      "score":5.348214925871338
+    },
+    "shortestDistPlan":{
+      "ID":15,
+      "plan":[{
+        "_1":"R4pXn46uNc4qz-V1PpG7CQ",
+        "_2":"Las Vegas Toilet Rentals",
+        "_3":4.6648993157681
+      },{
+        "_1":"rN5Yr8-vB-5ctRB4VYh1Jw",
+        "_2":"Arthur Tomaro, DDS",
+        "_3":5.0
+      }],
+      "averageRating":4.83244965788405,
+      "roundTripDistance":244.23813738059084
+    },
+    "bestRatedPlan":{
+      "ID":0,
+      "plan":[{
+        "_1":"glSwF-N_ctZxM_7JcWFArQ",
+        "_2":"Goodfellow Movers",
+        "_3":5.0
+      },{
+        "_1":"rN5Yr8-vB-5ctRB4VYh1Jw",
+        "_2":"Arthur Tomaro, DDS",
+        "_3":5.0
+      }],
+      "averageRating":5.0,
+      "roundTripDistance":551.0158544967837
+    },
+    "optimalPlan":{
+      "plan":{
+        "ID":0,
+        "plan":[{
+          "_1":"glSwF-N_ctZxM_7JcWFArQ",
+          "_2":"Goodfellow Movers",
+          "_3":5.0
+        },{
+          "_1":"rN5Yr8-vB-5ctRB4VYh1Jw",
+          "_2":"Arthur Tomaro, DDS",
+          "_3":5.0
+        }],
+        "averageRating":5.0,
+        "roundTripDistance":551.0158544967837
+      },
+      "score":8.595903661963339
+    }
+  }]
+}
