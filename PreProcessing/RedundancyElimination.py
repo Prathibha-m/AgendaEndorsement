@@ -3,10 +3,8 @@ import math
 import re
 import csv
 
-# file created to rectify the blunder in duplication
-#Sorry HHE, #HHEYelpFire
-df_annotated = pd.read_csv('/media/sharath/EADEDFA2DEDF657B/DM Project/Category Extraction/annotatedList.csv')
-df_categSet = pd.read_csv('/media/sharath/EADEDFA2DEDF657B/DM Project/Category Extraction/Category_List.csv')
+df_annotated = pd.read_csv('annotatedList.csv')
+df_categSet = pd.read_csv('Category_List.csv')
 df_categSet["Type"]=""
 df_categSet["SubType"]=""
 print list(df_annotated)
